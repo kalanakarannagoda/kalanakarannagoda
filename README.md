@@ -8,11 +8,7 @@
 <p align="left"> <a href="https://twitter.com/kalanakara" target="blank"><img src="https://img.shields.io/twitter/follow/kalanakara?logo=twitter&style=for-the-badge" alt="kalanakara" /></a> </p>
 
  
-- 🌱 I’m currently learning **many frameworks**
-
-- 👯 I’m looking to collaborate on **anyone**
-
-- 🤝 I’m looking for help with **anyone**
+- 🌱 I’m currently learning **springboot**
 
 - 👨‍💻 All of my projects are available at [here](here)
 
@@ -20,7 +16,7 @@
 
 - 📫 How to reach me **kalanakarannagoda@gmail.com**
 
-- ⚡ Fun fact **I just use github as a cloud service**
+- ⚡ Fun fact **“bug” was inspired by a real insect**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
